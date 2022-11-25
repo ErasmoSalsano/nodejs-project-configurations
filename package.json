@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-project-configurations",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErasmoSalsano/nodejs-project-configurations.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/ErasmoSalsano/nodejs-project-configurations/issues"
+  },
+  "homepage": "https://github.com/ErasmoSalsano/nodejs-project-configurations#readme"
+}
